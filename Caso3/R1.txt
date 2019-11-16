@@ -1,0 +1,30 @@
+delegado 0: Terminando exitosamente.OK
+
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+TIEMPO TRANSACCION: 87
+PORCENTAJE DE USO DE LA CPU:100.0
+NUMERO PERDIDAS0
+delegado 1: Terminando exitosamente.OK
+
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+TIEMPO TRANSACCION: 7
+PORCENTAJE DE USO DE LA CPU:100.0
+NUMERO PERDIDAS0
+delegado 2: Terminando exitosamente.OK
+
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+TIEMPO TRANSACCION: 8
+PORCENTAJE DE USO DE LA CPU:100.0
+NUMERO PERDIDAS0
+delegado 3: Terminando exitosamente.OK
+
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+TIEMPO TRANSACCION: 9
+PORCENTAJE DE USO DE LA CPU:100.0
+NUMERO PERDIDAS0
+delegado 4: Terminando exitosamente.OK
+
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+TIEMPO TRANSACCION: 7
+PORCENTAJE DE USO DE LA CPU:100.0
+NUMERO PERDIDAS0
